@@ -6,6 +6,7 @@ My name is Davide and I am a Mechatronic Engineer graduated from Politecnico di 
 I am currently working as a Research Assistant in the Department of Electronics and collaborating with Thales Alenia Space for the development of Autonomous Navigation Systems able to push the boundaries of robotic in the context of space exploration.
 
 
+
 With my multidisciplinary background, I possess a comprehensive understanding of mechanical, electrical, and computer engineering principles, allowing me to approach robotics challenges from a holistic perspective. I apply this knowledge to develop innovative and efficient solutions for space robots, leveraging my expertise in software development and autonomous navigation.
 
 ##
@@ -13,8 +14,11 @@ With my multidisciplinary background, I possess a comprehensive understanding of
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Fixit-Davide&show_icons=true&theme=radical&rank_icon=github&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fixit-Davide&layout=compact&langs_count=8&card_width=300&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fixit-Davide&layout=compact&langs_count=8&card_width=310&theme=radical" />
 </a>
+
+## Find me
+<a href="https://www.linkedin.com/in/davide-graziato/"><img height="30" src=""></a>
 
 <!--
 **Fixit-Davide/Fixit-Davide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
