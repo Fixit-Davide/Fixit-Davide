@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="20%" width="20%" align="center" src="https://github.com/Fixit-Davide/Fixit-Davide/assets/85335579/f0a9f82f-ea75-43fa-9e12-298917b02530" />
+  <img height="20%" width="20%" align="center" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/rover_animation.gif" />
  <h2 align="center">Hello there,</h2>
 </p>
 My name is Davide and I am a Mechatronic Engineer graduated from Politecnico di Torino.
@@ -18,7 +18,7 @@ With my multidisciplinary background, I possess a comprehensive understanding of
 </a>
 
 ## Find me
-<a href="https://www.linkedin.com/in/davide-graziato/"><img height="30" src=""></a>
+<a href="https://www.linkedin.com/in/davide-graziato/"><img height="30" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/linkedin_logo.png"></a>
 
 <!--
 **Fixit-Davide/Fixit-Davide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
