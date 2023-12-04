@@ -17,6 +17,10 @@ With my multidisciplinary background, I possess a comprehensive understanding of
   <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Fixit-Davide&layout=compact&langs_count=8&card_width=310&theme=radical" />
 </a>
 
+## Code
+<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/cpp_logo.png"></a>
+<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/ros2_logo.png"></a>
+
 ## Find me
 <a href="https://www.linkedin.com/in/davide-graziato/"><img height="30" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/linkedin_logo.png"></a>
 
