@@ -19,6 +19,9 @@ With my multidisciplinary background, I possess a comprehensive understanding of
 
 ## Code
 <a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/cpp_logo.png"></a>
+<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/Python.png"></a>
+<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/Matlab_Logo.png"></a>
+<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/Simulink_Logo.png"></a>
 <a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/ros2_logo.png"></a>
 
 ## Find me
