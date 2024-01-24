@@ -18,18 +18,23 @@ With my multidisciplinary background, I possess a comprehensive understanding of
 </a>
 
 ## Code
-<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/cpp_logo.png"></a>
-<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/Python.png"></a>
-<a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/Matlab_Logo.png"></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg"></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></a>
 <a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/Simulink_Logo.png"></a>
 <a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/ros2_logo.png"></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg"></a>
+
 
 ## Find me
-<a href="https://www.linkedin.com/in/davide-graziato/"><img height="30" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/linkedin_logo.png"></a>
+<a href="https://www.linkedin.com/in/davide-graziato/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></a>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=150&height=100&section=footer"/>
 </p>
+
 <!--
 **Fixit-Davide/Fixit-Davide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
