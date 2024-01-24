@@ -24,9 +24,9 @@ With my multidisciplinary background, I possess a comprehensive understanding of
 <a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg"></a>
 <a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></a>
 <a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/Simulink_Logo.png"></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></a>
 <a><img height="40" src="https://github.com/Fixit-Davide/Fixit-Davide/blob/main/icon/ros2_logo.png"></a>
 <a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg"></a>
-
 
 ## Find me
 <a href="https://www.linkedin.com/in/davide-graziato/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></a>
