@@ -3,7 +3,6 @@
  <h2 align="center">Hello there,</h2>
 </p>
 My name is Davide and I am a Mechatronic Engineer graduated from Politecnico di Torino.
-I am currently working as a Research Assistant in the Department of Electronics and collaborating with Thales Alenia Space for the development of Autonomous Navigation Systems able to push the boundaries of robotic in the context of space exploration.
 
 
 
